@@ -41,4 +41,26 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 
 ## 4. What is Artificial Intelligence:
 
-Coming soon...
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/day1/1.png" width="40%">](https://youtu.be/aYkf5p2uymY "What is Artificial Intelligence")
+
+## 5. History of Artificial Intelligence:
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/day1/2.png" width="40%">](https://youtu.be/n5u_QdcJxYY "History of Artificial Intelligence")
+
+>Here is the link for reference: [History of AI](https://sitn.hms.harvard.edu/flash/2017/history-artificial-intelligence/)
+
+## 6. Big players in AI:
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/day1/3.png" width="40%">](https://youtu.be/3y9njYMraFw "Big players in AI")
+
+## 7. AI in our Daily life:
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/day1/4.png" width="40%">](https://youtu.be/CZZK9Sn-26s "AI in our Daily life")
