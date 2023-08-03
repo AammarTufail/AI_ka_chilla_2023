@@ -108,4 +108,5 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 >* kaggle: https://www.kaggle.com/muhammadaammartufail
 >* LinkedIn: https://www.linkedin.com/in/dr-muhammad-aammar-tufail-02471213b/
 >* Twitter (X): https://twitter.com/aammar_tufail
+>* Use multiple gpt algorithms: https://poe.com/
 >* youtube:  https://www.youtube.com/@Codanics
