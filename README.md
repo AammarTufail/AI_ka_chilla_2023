@@ -94,3 +94,18 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
 
 [<img src="./resources/thumbnails/Day2/9.png" width="40%">](https://youtu.be/ROO3QTPsSR4 "Software installation and websites for this course")
+
+>**`Links to software and websites:`**
+>1. Python: https://www.python.org/downloads/
+>2. vscode: https://code.visualstudio.com/
+>3. miniconda: https://docs.conda.io/en/latest/miniconda.html#installing
+>4. git: https://git-scm.com/
+
+>**`Website links to make your account on (sign up):`**
+>* github: https://github.com/
+>* github student developer pack: https://education.github.com/pack
+>* git hub teachers developer pack: https://education.github.com/teachers
+>* kaggle: https://www.kaggle.com/muhammadaammartufail
+>* LinkedIn: https://www.linkedin.com/in/dr-muhammad-aammar-tufail-02471213b/
+>* Twitter (X): https://twitter.com/aammar_tufail
+>* youtube:  https://www.youtube.com/@Codanics
