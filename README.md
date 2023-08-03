@@ -64,3 +64,33 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
 
 [<img src="./resources/thumbnails/Day1/4.png" width="40%">](https://youtu.be/CZZK9Sn-26s "AI in our Daily life")
+
+## 8. How to get a job in AI:
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day2/5.png" width="40%">](https://youtu.be/VFNQRoRWVvM "How to get a job in AI")
+
+## 9. Will me job be replaced by AI?:
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day2/6.png" width="40%">](https://youtu.be/qDBXnnx8QPM "Will me job be replaced by AI?")
+
+## 10. Main Goals of AI ka Chilla 2023:
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day2/7.png" width="40%">](https://youtu.be/rjmsGP2_RKs "Main Goals of AI ka Chilla 2023")
+
+## 11. Why Do you need to learn pyhton for AI?
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day2/8.png" width="40%">](https://youtu.be/tlxM7L9lDDY "Why Do you need to learn pyhton for AI?")
+
+## 12. Software installation and websites for this course:
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day2/9.png" width="40%">](https://youtu.be/ROO3QTPsSR4 "Software installation and websites for this course")
