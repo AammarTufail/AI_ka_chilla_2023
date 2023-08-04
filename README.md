@@ -110,3 +110,25 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 >* Twitter (X): https://twitter.com/aammar_tufail
 >* Use multiple gpt algorithms: https://poe.com/
 >* youtube:  https://www.youtube.com/@Codanics
+
+
+## 13. Conda environemnts (A-Z):
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day3/10.png" width="40%">](https://youtu.be/9ofiOq3tgcQ "Conda environemnts (A-Z)")
+
+> Here is the cheatsheet for conda commands: [Conda cheatsheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
+
+
+## 14. VScode setup for python for AI and Data Science:
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day3/11.png" width="40%">](https://youtu.be/LxGmdgSM0Po "VScode setup for python for AI and Data Science")
+
+## 15. Python for AI and Data Science:
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day3/12.png" width="40%">](https://youtu.be/WKyBJV8b_0U "Python for AI and Data Science")
