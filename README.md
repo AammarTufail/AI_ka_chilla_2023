@@ -133,8 +133,9 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 
 [<img src="./resources/thumbnails/Day3/12.png" width="40%">](https://youtu.be/WKyBJV8b_0U "Python for AI and Data Science")
 
+* [Book: Python for Data Analysis](https://wesmckinney.com/book/)
 
 ## 16. Python for AI and Data Science (cont.):
 
 **`Python-101`**
->**Note:** Please watch the following video before next lecture: [Python-101](https://youtu.be/930zolu8E2g)
+>**Note:** Please watch the following lecture and practice at least 5 times before moving to the next lecture: [Python-101](https://youtu.be/930zolu8E2g)
