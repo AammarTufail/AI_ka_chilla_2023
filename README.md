@@ -127,7 +127,7 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 
 [<img src="./resources/thumbnails/Day3/11.png" width="40%">](https://youtu.be/LxGmdgSM0Po "VScode setup for python for AI and Data Science")
 
-## 15. Basics of Python for AI and Data Science:
+## **15.** **Basics of Python for AI and Data Science:**
 
 **`Python-101`**
 >**Note:** Please watch the following lecture and practice at least 5 times before moving to the next lectures: [Python-101](https://youtu.be/930zolu8E2g)
