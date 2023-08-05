@@ -127,7 +127,12 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 
 [<img src="./resources/thumbnails/Day3/11.png" width="40%">](https://youtu.be/LxGmdgSM0Po "VScode setup for python for AI and Data Science")
 
-## 15. Python for AI and Data Science:
+## 15. Basics of Python for AI and Data Science:
+
+**`Python-101`**
+>**Note:** Please watch the following lecture and practice at least 5 times before moving to the next lectures: [Python-101](https://youtu.be/930zolu8E2g)
+
+### 15.1. Python-101 (Part-1): *`First Line of Code in Python`*
 
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
 
@@ -135,7 +140,54 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 
 * [Book: Python for Data Analysis](https://wesmckinney.com/book/)
 
-## 16. Python for AI and Data Science (cont.):
+### 15.2 Python-101 (Part-2): *`Variables in Python`*
 
-**`Python-101`**
->**Note:** Please watch the following lecture and practice at least 5 times before moving to the next lecture: [Python-101](https://youtu.be/930zolu8E2g)
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day4/13.png" width="40%">](https://youtu.be/rb9l7_Qp7zw "Python for AI and Data Science")
+
+### 15.3 Python-101 (Part-3): *`Operator in python`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day4/14.png" width="40%">](https://youtu.be/mVIsFyCDceY "Python for AI and Data Science")
+
+### 15.4 Python-101 (Part-4): *`Data Types in Python`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day4/15.png" width="40%">](https://youtu.be/nUclIt4yTDU "Python for AI and Data Science")
+
+### 15.5 Python-101 (Part-5): *`Indentations and if conditions in Python`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day4/16.png" width="40%">](https://youtu.be/YrlLgfuKLO4 "Python for AI and Data Science")
+
+### 15.6 Python-101 (Part-6): *`User input program in python`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day4/17.png" width="40%">](https://youtu.be/Vx1XMgzlP1c "Python for AI and Data Science")
+
+### 15.7 Python-101 (Part-7): *`Data structures and indexing in python`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day4/18.png" width="40%">](https://youtu.be/oJpUfLm2jBc "Python for AI and Data Science")
+
+### 15.8 Python-101 (Part-8): *`Control flow statements in python`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day4/19.png" width="40%">](https://youtu.be/Az5KRivoFCo "Python for AI and Data Science")
+
+### 15.9 Python-101 (Part-9):
+
+coming soon...
+
+
+
+
+
+
