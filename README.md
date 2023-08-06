@@ -182,12 +182,44 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 
 [<img src="./resources/thumbnails/Day4/19.png" width="40%">](https://youtu.be/Az5KRivoFCo "Python for AI and Data Science")
 
-### 15.9 Python-101 (Part-9):
+### 15.9 Python-101 (Part-9):*`Nested Loops in Python`*
 
-coming soon...
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
 
+[<img src="./resources/thumbnails/Day5/20.png" width="40%">](https://youtu.be/n-tOjuGDqwk "Netsted Loops in Python")
 
+### 15.10 Python-101 (Part-10): *`Functions & Lmbda funtions in Python`*
 
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
 
+[<img src="./resources/thumbnails/Day5/21.png" width="40%">](https://youtu.be/uiVt6qsrnGg "Functions in Python")
 
+### 15.11 Python-101 (Part-11): *`Modules and Libraries in Python`*
 
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day5/22.png" width="40%">](https://youtu.be/nzHHOPFce-k "Modules and Libraries in Python")
+
+### 15.12 Python-101 (Part-12): *`Types of Errors in Python`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day5/23.png" width="40%">](https://youtu.be/P4bqOjhXSAQ "Types of Errors in Python")
+
+### 15.13 Python-101 (Part-13): *`Jupyter Notebook and File Handling in Python`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day5/24.png" width="40%">](https://youtu.be/DS_TnRNO6CQ "Jupyter Notebook and File Handling in Python")
+
+### 15.14 Python-101 (Part-14): *`MarkDown Crash Course in 72 minutes`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day5/25.png" width="40%">](https://youtu.be/qJqAXjz-Rh4?t=56 "MarkDown Crash Course")
+
+## **16.** **Why Data is Important for AI?**
+
+### 16.1 Why Data is Important for AI? (Part-1): *`What is Data?`*
+
+Coming soon...
