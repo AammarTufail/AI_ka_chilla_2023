@@ -220,6 +220,20 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 
 ## **16.** **Why Data is Important for AI?**
 
-### 16.1 Why Data is Important for AI? (Part-1): *`What is Data?`*
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
 
-Coming soon...
+[<img src="./resources/thumbnails/Day6/26.png" width="40%">](https://youtu.be/iJcCVjXz_po "Why Data is Important for AI?")
+
+## **17.** **How Data is fueling AI:**
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day6/27.png" width="40%">](https://youtu.be/j4-XzkSU7_I "How Data is fueling AI")
+
+## **18.** **Exploratory Data Analysis in Python:**
+
+### 18.1. EDA (Part-1): *`Introduction to EDA and Python coding`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day6/28.png" width="40%">](https://youtu.be/ux4sO34fZDk "Exploratory Data Analysis in Python")
