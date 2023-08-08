@@ -20,6 +20,7 @@ Is lecture ko complete kiay bina ap agay nahi chal saken gay is course ko start 
 
 >[Pre-requisite lecture link is here](https://www.youtube.com/live/xjTMkxVSSxg?feature=share)
 
+---
 ## 1. Introduction to the 40 Days long course:
 
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
@@ -27,12 +28,14 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 [<img src="./resources/thumbnails/01_Intro.png" width="40%">](https://youtu.be/pnz-HCViKGE "Why to register for this course: AI ka chilla 2023")
 
 
+---
 ## 2. AI News 21-07-2023:
 
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
 
 [<img src="./resources/thumbnails/02_AI_news_21072023.png" width="40%">](https://youtu.be/sQo2v_HeB-M "AI News 21-07-2023")
 
+---
 ## 3. AI News 30-07-2023:
 
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
@@ -45,6 +48,7 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 
 [<img src="./resources/thumbnails/Day1/1.png" width="40%">](https://youtu.be/aYkf5p2uymY "What is Artificial Intelligence")
 
+---
 ## 5. History of Artificial Intelligence:
 
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
@@ -53,42 +57,49 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 
 >Here is the link for reference: [History of AI](https://sitn.hms.harvard.edu/flash/2017/history-artificial-intelligence/)
 
+---
 ## 6. Big players in AI:
 
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
 
 [<img src="./resources/thumbnails/Day1/3.png" width="40%">](https://youtu.be/3y9njYMraFw "Big players in AI")
 
+---
 ## 7. AI in our Daily life:
 
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
 
 [<img src="./resources/thumbnails/Day1/4.png" width="40%">](https://youtu.be/CZZK9Sn-26s "AI in our Daily life")
 
+---
 ## 8. How to get a job in AI:
 
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
 
 [<img src="./resources/thumbnails/Day2/5.png" width="40%">](https://youtu.be/VFNQRoRWVvM "How to get a job in AI")
 
+---
 ## 9. Will me job be replaced by AI?:
 
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
 
 [<img src="./resources/thumbnails/Day2/6.png" width="40%">](https://youtu.be/qDBXnnx8QPM "Will me job be replaced by AI?")
 
+---
 ## 10. Main Goals of AI ka Chilla 2023:
 
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
 
 [<img src="./resources/thumbnails/Day2/7.png" width="40%">](https://youtu.be/rjmsGP2_RKs "Main Goals of AI ka Chilla 2023")
 
+---
 ## 11. Why Do you need to learn pyhton for AI?
 
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
 
 [<img src="./resources/thumbnails/Day2/8.png" width="40%">](https://youtu.be/tlxM7L9lDDY "Why Do you need to learn pyhton for AI?")
 
+---
 ## 12. Software installation and websites for this course:
 
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
@@ -112,6 +123,7 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 >* youtube:  https://www.youtube.com/@Codanics
 
 
+---
 ## 13. Conda environemnts (A-Z):
 
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
@@ -121,11 +133,14 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 > Here is the cheatsheet for conda commands: [Conda cheatsheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
 
 
+---
 ## 14. VScode setup for python for AI and Data Science:
 
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
 
 [<img src="./resources/thumbnails/Day3/11.png" width="40%">](https://youtu.be/LxGmdgSM0Po "VScode setup for python for AI and Data Science")
+
+---
 
 ## **15.** **Basics of Python for AI and Data Science:**
 
@@ -206,6 +221,7 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 
 [<img src="./resources/thumbnails/Day5/23.png" width="40%">](https://youtu.be/P4bqOjhXSAQ "Types of Errors in Python")
 
+
 ### 15.13 Python-101 (Part-13): *`Jupyter Notebook and File Handling in Python`*
 
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
@@ -218,11 +234,14 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 
 [<img src="./resources/thumbnails/Day5/25.png" width="40%">](https://youtu.be/qJqAXjz-Rh4?t=56 "MarkDown Crash Course")
 
+---
 ## **16.** **Why Data is Important for AI?**
 
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
 
 [<img src="./resources/thumbnails/Day6/26.png" width="40%">](https://youtu.be/iJcCVjXz_po "Why Data is Important for AI?")
+
+---
 
 ## **17.** **How Data is fueling AI:**
 
@@ -230,10 +249,78 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 
 [<img src="./resources/thumbnails/Day6/27.png" width="40%">](https://youtu.be/j4-XzkSU7_I "How Data is fueling AI")
 
-## **18.** **Exploratory Data Analysis in Python:**
+---
 
-### 18.1. EDA (Part-1): *`Introduction to EDA and Python coding`*
+## **18** **ABC of Statistics for AI and Data Science:**
+
+### 18.1. ABC of Statistics (Part-1): *`Introduction to Statistics`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day8/31.png" width="40%">](https://youtube.com/live/9F5CVyHWBKo?feature=share "ABC of Statistics for AI and Data Science")
+
+### 18.2. ABC of Statistics (Part-2): *`Data and Stat`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day8/32.png" width="40%">](https://youtube.com/live/ql4Rqx0XZIk?feature=share "ABC of Statistics for AI and Data Science")
+
+### 18.3. ABC of Statistics (Part-3): *`Data, Stat and Data`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day8/33.png" width="40%">](https://youtube.com/live/i1ZDDN8XcOY?feature=share "ABC of Statistics for AI and Data Science")
+
+### 18.4. ABC of Statistics (Part-4): *`Descriptive Statistics`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day8/34.png" width="40%">](https://youtube.com/live/aFPpXIdEBnA?feature=share "Descriptive Statistics")
+
+### 18.5. ABC of Statistics (Part-5): *`Inferential Statistics Part-1`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day8/35.png" width="40%">](https://youtube.com/live/Wl28DaEoZXc?feature=share "Inferential Statistics Part-1")
+
+### 18.6. ABC of Statistics (Part-6): *`Inferential Statistics Part-2`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day8/36.png" width="40%">](https://youtube.com/live/1kldE86nL9E?feature=share "Inferential Statistics Part-2")
+
+### 18.7. ABC of Statistics (Part-7): *`Hypothesis Testing`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day8/37.png" width="40%">](https://youtube.com/live/UFVyzGZpUWE?feature=share "Hypothesis Testing")
+
+### 18.8. ABC of Statistics (Part-8): *`Important Terms in Statistics`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day8/38.png" width="40%">](https://youtube.com/live/I9VI5_DkZoU?feature=share "Important Terms in Statistics")
+
+---
+
+## **19.** **Exploratory Data Analysis in Python:**
+
+### 19.1. EDA (Part-1): *`Introduction to EDA and Python coding`*
 
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
 
 [<img src="./resources/thumbnails/Day6/28.png" width="40%">](https://youtu.be/ux4sO34fZDk "Exploratory Data Analysis in Python")
+
+### 19.2. EDA (Part-2): *`Important Terminoogies in EDA`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day7/29.png" width="40%">](https://youtu.be/lyVBjQTctsw "Exploratory Data Analysis in Python")
+
+### 19.3. EDA (Part-3): *`Why and how to deal missing values`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day7/30.png" width="40%">](https://youtu.be/catq_2XEmVM "Exploratory Data Analysis in Python")
+
+---
