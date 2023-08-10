@@ -323,4 +323,14 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 
 [<img src="./resources/thumbnails/Day7/30.png" width="40%">](https://youtu.be/catq_2XEmVM "Exploratory Data Analysis in Python")
 
+### 19.4. EDA (Part-4): *`Complete A-Z EDA`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day9/39.png" width="40%">](https://youtube.com/live/yxeq9Ks2EkE?feature=share "Exploratory Data Analysis in Python")
+
+How to Automate EDA in Python?
+The link to blog is here: 
+> **[4 Ways to Automate Exploratory Data Analysis (EDA) in Python](https://builtin.com/data-science/EDA-python)**
+
 ---
