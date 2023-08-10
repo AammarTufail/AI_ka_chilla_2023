@@ -323,14 +323,26 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 
 [<img src="./resources/thumbnails/Day7/30.png" width="40%">](https://youtu.be/catq_2XEmVM "Exploratory Data Analysis in Python")
 
-### 19.4. EDA (Part-4): *`Complete A-Z EDA`*
+### 19.4. EDA (Part-4): *`Missing Value Imputation in Python`*
 
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
 
-[<img src="./resources/thumbnails/Day9/39.png" width="40%">](https://youtube.com/live/yxeq9Ks2EkE?feature=share "Exploratory Data Analysis in Python")
+[<img src="./resources/thumbnails/Day9/41.png" width="40%">](https://youtu.be/0sLj91__T_M "Missing values dealing in Python")
+
+### 19.5. EDA (Part-5): *`Complete A-Z EDA`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day9/40.png" width="40%">](https://youtu.be/O-mkpOCsLEo "Exploratory Data Analysis in Python")
+
+### 19.6. EDA (Part-6): *`Automatic EDA`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day9/42.png" width="40%">](https://youtu.be/iMbFxUGPPKw "Automatic EDA")
 
 How to Automate EDA in Python?
-The link to blog is here: 
+The link to a nice blog is here: 
 > **[4 Ways to Automate Exploratory Data Analysis (EDA) in Python](https://builtin.com/data-science/EDA-python)**
 
 ---
