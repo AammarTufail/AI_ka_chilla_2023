@@ -335,7 +335,7 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 
 [<img src="./resources/thumbnails/Day9/40.png" width="40%">](https://youtu.be/O-mkpOCsLEo "Exploratory Data Analysis in Python")
 
-### 19.6. EDA (Part-6): *`Automatic EDA`*
+### 19.6a. EDA (Part-6a): *`Automatic EDA`*
 
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
 
@@ -344,5 +344,40 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 How to Automate EDA in Python?
 The link to a nice blog is here: 
 > **[4 Ways to Automate Exploratory Data Analysis (EDA) in Python](https://builtin.com/data-science/EDA-python)**
+
+### 19.6b. EDA (Part-6b): *`AutoViz Library`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day10/43.png" width="40%">](https://youtu.be/EbSAcTW5pII "AutoViz Library")
+
+> **[AutoViz Library link is here](https://github.com/AutoViML/AutoViz)**
+
+### 19.7. EDA (Part-7): *`GPT based vscode extensions and websites`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day10/44.png" width="40%">](https://youtu.be/8h8754sr6NE "GPT based vscode extensions and websites")
+
+### 19.8. EDA (Part-8): *`Use Ai for Fast paced EDA`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day10/45.png" width="40%">](https://youtu.be/NAbB76l2j18 "Use Ai for Fast paced EDA")
+
+### 19.9. EDA (Part-9): *`Big Datasets for EDA practice`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day10/46.png" width="40%">](https://youtu.be/HltBr8z4kS4 "Big Datasets for EDA practice")
+
+>#### Here are the links to important big data in the industries:
+>1. [Google Play Store Apps Google Play Store App data of 2.3 Million+ applications.](https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps)
+>2. [Apple AppStore Apps dataset](https://www.kaggle.com/gauthamp10/apple-appstore-apps)
+>3. [Android App Permission dataset](https://www.kaggle.com/gauthamp10/app-permissions-android)
+
+>In per EDA karen tu maza or e hy, time lagay ga but it would be a nice portfolio for you guys.
+
+
 
 ---
