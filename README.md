@@ -379,5 +379,24 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 >In per EDA karen tu maza or e hy, time lagay ga but it would be a nice portfolio for you guys.
 
 
+## 20. **EDA on Big Data**
+
+### 20.1. EDA on Big Data (Part-1): *`EDA on Apple Store Apps`*
+
+>[Apple AppStore Apps dataset can be found here](https://www.kaggle.com/gauthamp10/apple-appstore-apps)
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day14/47.png" width="40%">](https://youtu.be/YfwLzQ6MEUQ "EDA on Big Data")
+
+### 20.2. EDA on Big Data (Part-2): *`EDA on Google Play Store Apps`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day14/48.png" width="40%">](https://youtu.be/Z6X9PKhGzYU "EDA on Big Data")
+
+
+
+
 
 ---
