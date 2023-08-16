@@ -423,6 +423,17 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 
 [<img src="./resources/thumbnails/Day15/49.png" width="40%">](https://youtu.be/yJ9QCsOJhjE "EDA on Big Data")
 
+## 21. **Web app development using streamlit**
 
+### 21.1. Web app development using streamlit (Part-1): *`Introduction to streamlit and your first web app`*
 
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day16/50.png" width="40%">](https://youtu.be/JoPPiRDuoY8 "Web app development using streamlit")
+
+### 21.2. Web app development using streamlit (Part-2): *`Important logins for next details`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day16/51.png" width="40%">](https://youtu.be/tpPZFmjCZYE "Web app development using streamlit")
 ---
