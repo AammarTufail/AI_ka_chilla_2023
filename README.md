@@ -4,6 +4,28 @@ This repository is about the Course AI ka chilla 2023 #aikachilla. A Paid course
 Here is the complete poster of the course:
 ![AI ka chilla 2023](./resources/AI_ka_chilla_poster.png)
 
+## **Information about the instructor:**
+
+[<img src="./resources/aammar.jpeg" width="50%">](https://www.facebook.com/groups/codanics/permalink/1872283496462303/ "Image")
+
+
+**Dr. Muhammad Aammar Tufail**
+
+PhD Data Science in Agriculture
+
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube.svg" width="50" height="50">](https://www.youtube.com/channel/UCmNXJXWONLNF6bdftGY0Otw/)
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="50" height="50">](https://www.linkedin.com/in/dr-muhammad-aammar-tufail-02471213b/)
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="50" height="50">](https://github.com/AammarTufail)
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/twitter.svg" width="50" height="50">](https://twitter.com/aammar_tufail)
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/facebook.svg" width="50" height="50">](https://www.facebook.com/groups/codanics/permalink/1872283496462303/)
+
+
+
+For any query
+
+contact: aammar@codanics.com
+
+
 ## **Resources**
 ### *Books* (I will keep updating this list, if you have any book that you think should be added in this list, please let me know via telegram or email)
 
@@ -389,13 +411,17 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 
 [<img src="./resources/thumbnails/Day14/47.png" width="40%">](https://youtu.be/YfwLzQ6MEUQ "EDA on Big Data")
 
-### 20.2. EDA on Big Data (Part-2): *`EDA on Google Play Store Apps`*
+### 20.2. EDA on Big Data (Part-2): *`EDA on Apple App Store Data`*
 
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
 
 [<img src="./resources/thumbnails/Day14/48.png" width="40%">](https://youtu.be/Z6X9PKhGzYU "EDA on Big Data")
 
+### 20.3. EDA on Big Data (Part-3): *`Complete EDA on Apple APP store Data`*
 
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day15/49.png" width="40%">](https://youtu.be/yJ9QCsOJhjE "EDA on Big Data")
 
 
 
