@@ -436,4 +436,42 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
 
 [<img src="./resources/thumbnails/Day16/51.png" width="40%">](https://youtu.be/tpPZFmjCZYE "Web app development using streamlit")
+
+### 21.3. Web app development using streamlit (Part-3): *`Introduction to API`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day18/52.png" width="40%">](https://youtu.be/n-C79dq13i4 "What is an API")
+
+### 21.4. Web app development using streamlit (Part-4): *`Important APIs to be used in for AI course`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day18/53.png" width="40%">](https://youtu.be/OB9IZsFK4bU "Important APIs to be used in for AI course")
+
+### 21.5. Web app development using streamlit (Part-5): *`Apna chatGPT bnayen`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day18/54.png" width="40%">](https://youtu.be/iN5YxDmMu5g "Apna chatGPT bnayen")
+
+Complete code for the app is below or you can download the file [here](./resources/codes/apps/lang_chain_app_14_lines.py) or copy from below:
+
+```python
+import streamlit as st
+from langchain.llms import OpenAI #pip install langchain openai
+st.title('🦜🔗 Quickstart App')
+openai_api_key = st.sidebar.text_input('OpenAI API Key')
+def generate_response(input_text):
+  llm = OpenAI(temperature=0.7, openai_api_key=openai_api_key)
+  st.info(llm(input_text))
+with st.form('my_form'):
+  text = st.text_area('Enter text:', '...')
+  submitted = st.form_submit_button('Submit')
+  if not openai_api_key.startswith('sk-'):
+    st.warning('Please enter your OpenAI API key!', icon='⚠')
+  if submitted and openai_api_key.startswith('sk-'):
+    generate_response(text)
+```
+
 ---
