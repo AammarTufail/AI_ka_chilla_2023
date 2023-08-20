@@ -474,9 +474,19 @@ with st.form('my_form'):
     generate_response(text)
 ```
 
-### 21.6. Web app development using streamlit (Part-6): *`Ask the doc app`*
+### 21.6. Web app development using streamlit (Part-6): *`Introduction to LangChain`*
 
-Here is code for ask the doc app:
+Here is the lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day19/55.png" width="40%">](https://youtu.be/Dzvv8WY9GT8 "Intro to langchain")
+
+### 21.6. Web app development using streamlit (Part-6): *`Ask the text app`*
+
+Here is the lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day19/56.png" width="40%">](https://youtu.be/dfb7A3LMC1Q "Ask the text app")
+
+> Here is code for ask the text app:
 
 ```python
 import streamlit as st
@@ -530,7 +540,11 @@ if len(result):
     
 # add multiple document option in the app (docx, pdf)
 ```
-### 21.7. Web app development using streamlit (Part-7): *`Ask the doc app- Advanced`*
+### 21.7. Web app development using streamlit (Part-7): *`Ask the docx, pdf, txt file app- Advanced`*
+
+Here is the lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day20/57.png" width="40%">](https://youtu.be/8JE4QjNJLwU "Ask the docx, pdf, text app- Advanced")
 
 Code:
 
@@ -649,5 +663,19 @@ def main():
 if __name__ == '__main__':
     main()
 ```
+
+### 21.8. Web app development using streamlit (Part-8): *`Other important APIs for the app development`*
+
+Here is the lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day20/58.png" width="40%">](https://youtu.be/0xEhysUZizk "Other important APIs for the app development")
+
+## 22. **Machine Learning-101 to Advance**
+
+### 22.1. Machine Learning-101 to Advance (Part-1): *`Introduction to Machine Learning`*
+
+Here is the lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day20/59.png" width="40%">](https://youtu.be/p88bsuSf-h8 "Introduction to Machine Learning")
 
 ---
