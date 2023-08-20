@@ -669,6 +669,8 @@ if __name__ == '__main__':
 Here is the lecture, click the image and watch the lectrue in Urdu/Hindi.
 
 [<img src="./resources/thumbnails/Day20/58.png" width="40%">](https://youtu.be/0xEhysUZizk "Other important APIs for the app development")
+---
+---
 
 ## 22. **Machine Learning-101 to Advance**
 
