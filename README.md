@@ -689,7 +689,17 @@ Here is the lecture, click the image and watch the lectrue in Urdu/Hindi.
 
 [<img src="./resources/thumbnails/Day20/59.png" width="40%">](https://youtu.be/p88bsuSf-h8 "Introduction to Machine Learning")
 
-### 22.2. Machine Learning-101 to Advance (Part-2): *`Simle Linear Regression`*
+### 22.2. Machine Learning-101 to Advance (Part-2): *`Machine Learning and its types`*
+
+Here is the lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day21/60.png" width="40%">](linkcomingsoon "Machine Learning and its types")
+
+### 22.3. Machine Learning-101 to Advance (Part-2): *`Simple- and Multi- Linear Regression`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day21/61.png" width="40%">](linkcomingsoon "Simple- and Multi- Linear Regression")
 
 [Here is the code for the lecture](./resources/codes/machine_learning/01_linear_reg.ipynb)
 ---
