@@ -457,6 +457,9 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 
 Complete code for the app is below or you can download the file [here](./resources/codes/apps/lang_chain_app_14_lines.py) or copy from below:
 
+<details>
+    <summary><span style="color:yellow; font-weight:bold; font-size:16px;">Click here to expand the code for this lecture</span></summary>
+
 ```python
 import streamlit as st
 from langchain.llms import OpenAI #pip install langchain openai
@@ -472,7 +475,8 @@ with st.form('my_form'):
     st.warning('Please enter your OpenAI API key!', icon='⚠')
   if submitted and openai_api_key.startswith('sk-'):
     generate_response(text)
-```
+  ```
+</details>
 
 ### 21.6. Web app development using streamlit (Part-6): *`Introduction to LangChain`*
 
@@ -486,7 +490,8 @@ Here is the lecture, click the image and watch the lectrue in Urdu/Hindi.
 
 [<img src="./resources/thumbnails/Day19/56.png" width="40%">](https://youtu.be/dfb7A3LMC1Q "Ask the text app")
 
-> Here is code for ask the text app:
+<details>
+    <summary><span style="color:yellow; font-weight:bold; font-size:16px;">Click here to expand the code for this lecture</span></summary>
 
 ```python
 import streamlit as st
@@ -536,17 +541,20 @@ with st.form('myform', clear_on_submit=True):
 
 if len(result):
     st.info(response)
-    
-    
 # add multiple document option in the app (docx, pdf)
 ```
+</details>
+
 ### 21.7. Web app development using streamlit (Part-7): *`Ask the docx, pdf, txt file app- Advanced`*
 
 Here is the lecture, click the image and watch the lectrue in Urdu/Hindi.
 
 [<img src="./resources/thumbnails/Day20/57.png" width="40%">](https://youtu.be/8JE4QjNJLwU "Ask the docx, pdf, text app- Advanced")
 
-Code:
+
+
+<details>
+    <summary><span style="color:yellow; font-weight:bold; font-size:16px;">Click here to expand the code for this lecture</span></summary>
 
 ```python
 # Importing necessary libraries
@@ -663,6 +671,7 @@ def main():
 if __name__ == '__main__':
     main()
 ```
+</details>
 
 ### 21.8. Web app development using streamlit (Part-8): *`Other important APIs for the app development`*
 
