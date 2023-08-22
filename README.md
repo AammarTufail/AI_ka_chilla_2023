@@ -678,6 +678,12 @@ if __name__ == '__main__':
 Here is the lecture, click the image and watch the lectrue in Urdu/Hindi.
 
 [<img src="./resources/thumbnails/Day20/58.png" width="40%">](https://youtu.be/0xEhysUZizk "Other important APIs for the app development")
+
+### 21.9. Web app development using streamlit (Part-9): *`Large Language Models`*
+
+Here is the lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day21/60.png" width="40%">](https://youtu.be/6SiYKjwk6Eg "Large Language Models")
 ---
 ---
 
@@ -693,13 +699,38 @@ Here is the lecture, click the image and watch the lectrue in Urdu/Hindi.
 
 Here is the lecture, click the image and watch the lectrue in Urdu/Hindi.
 
-[<img src="./resources/thumbnails/Day21/60.png" width="40%">](linkcomingsoon "Machine Learning and its types")
+[<img src="./resources/thumbnails/Day21/61.png" width="40%">](https://youtu.be/xTmXbuSvtYA "Machine Learning and its types")
 
-### 22.3. Machine Learning-101 to Advance (Part-2): *`Simple- and Multi- Linear Regression`*
+### 22.3. Machine Learning-101 to Advance (Part-3): *`Regrssion vs. Classification and Types of Algorithms in Machine Learning`*
+
+Here is the lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day22/63.png" width="40%">](https://youtu.be/r_J4MfBYhUk "Regrssion vs. Classification and Types of Algorithms in Machine Learning")
+
+### 22.4. Machine Learning-101 to Advance (Part-4): *`Simple Linear Regression and Metric of Regression`*
+
+Here is the lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day22/64.png" width="40%">](https://youtu.be/6JGZ7c6YdSg "Simple Linear Regression and Metric of Regression")
+
+### 22.5. Machine Learning-101 to Advance (Part-5): *`Simple- and Multi- Linear Regression`*
 
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
 
-[<img src="./resources/thumbnails/Day21/61.png" width="40%">](linkcomingsoon "Simple- and Multi- Linear Regression")
+[<img src="./resources/thumbnails/Day21/62.png" width="40%">](https://youtu.be/LwZ81s2iHb4 "Simple- and Multi- Linear Regression")
 
-[Here is the code for the lecture](./resources/codes/machine_learning/01_linear_reg.ipynb)
+>[Click here](./resources/codes/machine_learning/01_linear_reg.ipynb) to download the `.ipynb` file with the code discussed in this lecture.
+
+### 22.6. Machine Learning-101 to Advance (Part-6): *`Simple Linear Regression Advanced`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day21/62a.png" width="40%">](https://www.youtube.com/live/yEMS0QXflew?si=OHNSRxPoyvHgWls9&t=165 "Simple Linear Regression Advanced")
+
+### 22.7. Machine Learning-101 to Advance (Part-7): *`Multiple Linear Regression and Types of Data Encoding`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day22/65.png" width="40%">](https://youtu.be/jfYhL0sHNEo "Multiple Linear Regression")
+
 ---
