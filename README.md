@@ -733,4 +733,36 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 
 [<img src="./resources/thumbnails/Day22/65.png" width="40%">](https://youtu.be/jfYhL0sHNEo "Multiple Linear Regression")
 
+### 22.8. Machine Learning-101 to Advance (Part-8): *`Evaluating Regression Models - Must-Know Metrics Explained`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day22/67.png" width="40%">](https://youtu.be/q5wlFsvwlSo "Multiple Linear Regression Advanced")
+
+### 22.9. Machine Learning-101 to Advance (Part-9): *`Regression vs. Classification`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day22/68.png" width="40%">](https://youtu.be/s14tQgPk3NU "Regression vs. Classification")
+
+### 22.10. Machine Learning-101 to Advance (Part-10): *`Features vs Labels - Explaining the Core Machine Learning Data Components`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day22/69.png" width="40%">](https://youtu.be/nwogZr03Uv0 "Features vs Labels")
+
+> ***`Features`*** vs. ***`Labels`***
+>- Features are also called as *`Independent Variables`* and Labels are also called as *`Dependent Variables`*. 
+Other than that features are also called as *`X`* and labels are also called as *`y`*.
+>- Also, features are also called as *`Predictors`* and labels are also called as *`Target`*.
+>- One more thing, features are also called as *`Inputs`* and labels are also called as *`Outputs`*.
+>- Do you know that, features are also called as *`Covariates`* and labels are also called as *`Response`*?
+>- Did you know that, features are also called as *`Explanatory Variables`* and labels are also called as *`Response Variables`*?
+
+### 22.11. Machine Learning-101 to Advance (Part-11): *`Important Lectures to watch and listen before next days`*
+
+Here is the complete lecture information, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day22/70.png" width="40%">](https://youtu.be/5wJFbzj3fEc "Important Lectures to watch and listen before next days")
+
 ---
