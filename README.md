@@ -772,4 +772,8 @@ Here is the complete lecture information, click the image and watch the lectrue 
 ### 22.12. Machine Learning-101 to Advance (Part-12): *`Sentiment Analysis Web App`*
 
 [Here is the code](./resources/codes/apps/sentiment_analysis_app.py)
+
+### 22.13. Machine Learning-101 to Advance (Part-13): *`Logistic Regression`*
+
+[Here is the code for logistic regression](./resources/codes/machine_learning/02_logistic_regression.ipynb)
 ---
