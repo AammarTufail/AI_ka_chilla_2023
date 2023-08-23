@@ -768,4 +768,8 @@ Here is the complete lecture information, click the image and watch the lectrue 
 
 [<img src="./resources/thumbnails/Day22/70.png" width="40%">](https://youtu.be/5wJFbzj3fEc "Important Lectures to watch and listen before next days")
 
+
+### 22.12. Machine Learning-101 to Advance (Part-12): *`Sentiment Analysis Web App`*
+
+[Here is the code](./resources/codes/apps/sentiment_analysis_app.py)
 ---
