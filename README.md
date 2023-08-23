@@ -26,7 +26,7 @@ For any query
 contact: aammar@codanics.com
 
 ## **Our youtube channel**
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/omk5b1m2h38?si=fDa6rzp229-opn9u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![How to Prepare for Data Science Interviews](https://i.ytimg.com/vi/omk5b1m2h38/maxresdefault.jpg)](http://www.youtube.com/watch?v=omk5b1m2h38)
 
 
 ## **Resources**
