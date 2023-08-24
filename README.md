@@ -802,4 +802,10 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 [<img src="./resources/thumbnails/Day23/75.png" width="40%">](https://youtu.be/3ASqK4ESOvY "Classification Models in sk-learn (Logistic Regression)")
 
 >[Click here to view the code for logistic regression](./resources/codes/machine_learning/02_logistic_regression.ipynb)
+
+### 22.17. Machine Learning-101 to Advance (Part-17): *`Regression vs. Classification`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day24/76.png" width="70%">](https://youtu.be/i3Tr3Xjn3P0 "Regression vs. Classification")
 ---
