@@ -696,7 +696,7 @@ Here is the lecture, click the image and watch the lectrue in Urdu/Hindi.
 
 Here is the lecture, click the image and watch the lectrue in Urdu/Hindi.
 
-[<img src="./resources/thumbnails/Day20/59.png" width="40%">](https://youtu.be/p88bsuSf-h8 "Introduction to Machine Learning")
+[<img src="./resources/thumbnails/Day20/59.png" width="60%">](https://youtu.be/p88bsuSf-h8 "Introduction to Machine Learning")
 
 ### 22.2. Machine Learning-101 to Advance (Part-2): *`Machine Learning and its types`*
 
@@ -808,4 +808,36 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
 
 [<img src="./resources/thumbnails/Day24/76.png" width="70%">](https://youtu.be/i3Tr3Xjn3P0 "Regression vs. Classification")
+
+### 22.18. Machine Learning-101 to Advance (Part-18): *`Logistic Regression (Theory)`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day24/77.png" width="70%">](https://youtu.be/PBllYC_6lAk "Logistic Regression")
+
+### 22.19. Machine Learning-101 to Advance (Part-19): *`Logistic Regression (Coding in Python)`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day24/78.png" width="70%">](https://youtu.be/mBXJK04-Aaw "Logistic Regression")
+
+### 22.20. Machine Learning-101 to Advance (Part-20): *`Evaluation Metrics for Classification`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day24/79.png" width="70%">](https://youtu.be/j-0UYA4Gc1E "Classification Evaluation Metrics")
+
+### 22.21. Machine Learning-101 to Advance (Part-21): *`Support vector Machines (Part-1)`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day24/80.png" width="70%">](https://youtu.be/dDY_7TzkGV4 "Support vector Machines (Part-1)")
+
+### 22.22. Machine Learning-101 to Advance (Part-22): *`Support vector Machines (Part-2)`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day24/81.png" width="70%">](https://youtu.be/IL1qfg7CQYA "Support vector Machines (Part-2)")
+
+
 ---
