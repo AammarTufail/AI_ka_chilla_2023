@@ -771,9 +771,35 @@ Here is the complete lecture information, click the image and watch the lectrue 
 
 ### 22.12. Machine Learning-101 to Advance (Part-12): *`Sentiment Analysis Web App`*
 
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day23/71.png" width="40%">](https://youtu.be/tjqZUOwUNYM "Sentiment Analysis Web App")
+
 [Here is the code](./resources/codes/apps/sentiment_analysis_app.py)
 
-### 22.13. Machine Learning-101 to Advance (Part-13): *`Logistic Regression`*
+### 22.13. Machine Learning-101 to Advance (Part-13): *`Evaluation Metrics for Classification models in Machine Learning`*
 
-[Here is the code for logistic regression](./resources/codes/machine_learning/02_logistic_regression.ipynb)
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day23/72.png" width="40%">](https://youtu.be/mMXYZnqOThk "Evaluation Metrics for Classification models in Machine Learning")
+
+### 22.14. Machine Learning-101 to Advance (Part-14): *`Prompt Engineering to make a complete webapp in less than 13 minutes`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day23/73.png" width="40%">](https://youtu.be/tKWEZWGu_HU "Prompt Engineering to make a complete webapp in less than 13 minutes")
+
+### 22.15. Machine Learning-101 to Advance (Part-15): *`EDA using prompt engineering`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day23/74.png" width="40%">](https://youtu.be/vh0OqBswR_A "EDA using prompt engineering")
+
+### 22.16. Machine Learning-101 to Advance (Part-16): *`Classification Models in sk-learn (Logistic Regression)`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day23/75.png" width="40%">](https://youtu.be/3ASqK4ESOvY "Classification Models in sk-learn (Logistic Regression)")
+
+>[Click here to view the code for logistic regression](./resources/codes/machine_learning/02_logistic_regression.ipynb)
 ---
