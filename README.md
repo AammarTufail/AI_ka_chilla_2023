@@ -839,5 +839,39 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 
 [<img src="./resources/thumbnails/Day24/81.png" width="70%">](https://youtu.be/IL1qfg7CQYA "Support vector Machines (Part-2)")
 
+### 22.23. Machine Learning-101 to Advance (Part-23): *`Machine Learnig Types and algorithms defined in one liner`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day25/82.png" width="70%">](https://youtu.be/UyaY8busnvw "Machine Learnig Types and algorithms defined in one liner")
+
+> [A Blog: Machine Learning Rangbaazi: A Deep Dive, Pakistani-Style! 🚀](https://codanics.com/machine-learning-rangbaazi-a-deep-dive-pakistani-style)
+
+## 23. **Prompt Enginnering**
+
+### 23.1. Prompt Enginnering (Part-1): *` Prompt Engineering Crash course`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day25/83.png" width="70%">](https://youtu.be/EiMoOoZB2ME "Prompt Enginnering Crash course")
+
+> [A Blog: Prompt Engineering Patakha: Mastering the Craft, Desi-Style! 🚀](https://codanics.com/prompt-engineering-patakha-mastering-the-craft-desi-style-)
+
+
+### 23.2. Prompt Enginnering (Part-2): *`Using Prompt Engineering to Craft Powerful Prompts with AI`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day25/84.png" width="70%">](https://youtu.be/rIlbDoJA_VA "Prompt Enginnering Crash course")
+
+### 23.3. Prompt Enginnering (Part-3): *`Blogging Tips and Tricks using Prompt Engineering`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day25/85.png" width="70%">](https://youtu.be/25N2k1vyjnE "Blogging Tips and Tricks using Prompt Engineering")
+
 
 ---
+
+
+
