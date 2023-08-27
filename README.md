@@ -895,6 +895,11 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 
 [<img src="./resources/thumbnails/Day25/85.png" width="70%">](https://youtu.be/25N2k1vyjnE "Blogging Tips and Tricks using Prompt Engineering")
 
+## 24. **Website Development Using Hostinger**
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day26/86.png" width="70%">](ComingSoon "Website Development Using Hostinger")
 
 ---
 
