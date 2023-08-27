@@ -847,6 +847,31 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 
 > [A Blog: Machine Learning Rangbaazi: A Deep Dive, Pakistani-Style! 🚀](https://codanics.com/machine-learning-rangbaazi-a-deep-dive-pakistani-style)
 
+
+### 22.24. Machine Learning-101 to Advance (Part-24): *`Naive Bayes Algorithm`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day27/87.png" width="70%">](https://youtu.be/x-l7GWwas30 "Naive Bayes Algorithm")
+
+### 22.25. Machine Learning-101 to Advance (Part-25): *`Cross Validation`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day27/87.png" width="70%">](https://youtu.be/b0F8EHsdSiY "Cross Validation")
+
+### 22.26. Machine Learning-101 to Advance (Part-26): *`K-Nearest Neighbours`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day27/88.png" width="70%">](https://youtu.be/5u3E78u5uDI "K-Nearest Neighbours")
+
+### 22.27. Machine Learning-101 to Advance (Part-27): *`K-Nearest Neighbours Algorithm's Mathematics`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day27/89.png" width="70%">](https://youtu.be/NvNR7vTy0Rk "K-Nearest Neighbours Algorithm's Mathematics")
+
 ## 23. **Prompt Enginnering**
 
 ### 23.1. Prompt Enginnering (Part-1): *` Prompt Engineering Crash course`*
