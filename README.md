@@ -872,6 +872,14 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 
 [<img src="./resources/thumbnails/Day27/90.png" width="70%">](https://youtu.be/NvNR7vTy0Rk "K-Nearest Neighbours Algorithm's Mathematics")
 
+### 22.28. Machine Learning-101 to Advance (Part-28): *`Best Model Selection`*
+
+> [Here is the complete code](./resources/codes/machine_learning/03_model_selection.ipynb)
+
+
+---
+---
+
 ## 23. **Prompt Enginnering**
 
 ### 23.1. Prompt Enginnering (Part-1): *` Prompt Engineering Crash course`*
@@ -900,6 +908,8 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
 
 [<img src="./resources/thumbnails/Day26/86.png" width="70%">](https://youtu.be/jYffGATJYgE "Website Development Using Hostinger")
+
+
 
 ---
 
