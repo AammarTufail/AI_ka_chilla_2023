@@ -874,7 +874,11 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 
 ### 22.28. Machine Learning-101 to Advance (Part-28): *`Best Model Selection`*
 
-> [Here is the complete code](./resources/codes/machine_learning/03_model_selection.ipynb)
+>1. [Here is the complete code for **Best model Selection**](./resources/codes/machine_learning/03_model_selection.ipynb)
+>2. [Here is the complete code for **HyperParameter Tuning**](./resources/codes/machine_learning/04_hyperparameter_tuning.ipynb)
+>3. [Here is the complete code for **Selecting best Hyperparamter Tuned Model**](./resources/codes/machine_learning/05_hyperparameter_tuning_best_model.ipynb)
+
+Lectures coming soon....
 
 
 ---
