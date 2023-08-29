@@ -874,13 +874,37 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 
 ### 22.28. Machine Learning-101 to Advance (Part-28): *`Best Model Selection`*
 
->1. [Here is the complete code for **Best model Selection**](./resources/codes/machine_learning/03_model_selection.ipynb)
->2. [Here is the complete code for **HyperParameter Tuning**](./resources/codes/machine_learning/04_hyperparameter_tuning.ipynb)
->3. [Here is the complete code for **Selecting best Hyperparamter Tuned Model**](./resources/codes/machine_learning/05_hyperparameter_tuning_best_model.ipynb)
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
 
-Lectures coming soon....
+[<img src="./resources/thumbnails/Day29/92.png" width="70%">](https://youtu.be/Bu7Z0_FDHro "Best Model Selection")
+
+>[Here is the complete code for **Best model Selection**](./resources/codes/machine_learning/03_model_selection.ipynb)
+
+#### `Here is how to use the code from Github:`
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day29/93.png" width="30%">](https://youtu.be/V3KOxyakdOk "HyperParameter Tuning")
+
+### 22.29. Machine Learning-101 to Advance (Part-29): *`HyperParameter Tuning`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day29/94.png" width="70%">](https://youtu.be/tqXXVy7actM "HyperParameter Tuning")
+
+>[Here is the complete code for **HyperParameter Tuning**](./resources/codes/machine_learning/04_hyperparameter_tuning.ipynb)
+
+### 22.30. Machine Learning-101 to Advance (Part-30): *`Selecting best Hyperparamter Tuned Model`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day29/95.png" width="70%">](https://youtu.be/uaZ5JJUBfVQ "Selecting best Hyperparamter Tuned Model")
+
+>[Here is the complete code for **Selecting best Hyperparamter Tuned Model**](./resources/codes/machine_learning/05_hyperparameter_tuning_best_model.ipynb)
 
 
+
+---
 ---
 ---
 
@@ -914,6 +938,11 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 [<img src="./resources/thumbnails/Day26/86.png" width="70%">](https://youtu.be/jYffGATJYgE "Website Development Using Hostinger")
 
 
+## 25. **WHat we have learned so far**
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day29/91.png" width="70%">](https://youtu.be/ccsQl2RKasw "WHat we have learned so far?")
 
 ---
 
