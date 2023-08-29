@@ -902,8 +902,74 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 
 >[Here is the complete code for **Selecting best Hyperparamter Tuned Model**](./resources/codes/machine_learning/05_hyperparameter_tuning_best_model.ipynb)
 
+### 22.31. Machine Learning-101 to Advance (Part-31): *`Missing Values Imputation methods`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day29/96.png" width="70%">](https://youtu.be/rw36aUKteiE "Missing Values Imputation methods")
+
+### 22.32. Machine Learning-101 to Advance (Part-32): *`Missing Values Imputation in Python`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day29/97.png" width="70%">](https://youtu.be/sQ8YH7bM8b8 "Missing Values Imputation in Python")
+
+### 22.33. Machine Learning-101 to Advance (Part-33): *`Pipeline in sk-learn`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day29/98.png" width="70%">](https://youtu.be/N1NMIC7Xpnc "Pipeline in sk-learn")
+
+### 22.34. Machine Learning-101 to Advance (Part-34): *`Ensemble Methods in Machine Learning ALgorithms`*\
+
+Ensemble methods are meta-algorithms that combine several machine learning techniques into one predictive model in order to decrease variance (bagging), bias (boosting), or improve predictions (stacking).
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day29/99.png" width="70%">](https://youtu.be/TtwYRqhE6to "Ensemble Methods in Machine Learning ALgorithms")
+
+### 22.35. Machine Learning-101 to Advance (Part-35): *`Decision Tree Algorithm`*
+
+Decision tree algorithm falls under the category of supervised learning. They can be used to solve both regression and classification problems. Decision tree uses the tree representation to solve the problem in which each leaf node corresponds to a class label and attributes are represented on the internal node of the tree.
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day29/100.png" width="70%">](https://youtu.be/h5yTXFjFukg "Decision Tree Algorithm")
 
 
+### 22.36. Machine Learning-101 to Advance (Part-36): *`ADAboosting Algorithm`*
+
+AdaBoost is a boosting algorithm that aims to boost the performance of weak classifiers in a sequential manner. It is called AdaBoost because it is adaptive in the sense that subsequent classifiers built are tweaked in favor of those instances misclassified by previous classifiers.
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day29/101.png" width="70%">](https://youtu.be/sunpleiRSUI "ADAboosting Algorithm")
+
+### 22.37. Machine Learning-101 to Advance (Part-37): *`Random Forest Algorithm`*
+
+Random forest is a supervised learning algorithm. The "forest" it builds, is an ensemble of decision trees, usually trained with the “bagging” method. The general idea of the bagging method is that a combination of learning models increases the overall result.
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day29/102.png" width="70%">](https://youtu.be/9WjOrKhRqZY "Random Forest Algorithm")
+
+### 22.38. Machine Learning-101 to Advance (Part-38): *`XGBoost, CATBoost, and lightGBM Algorithm`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day29/103.png" width="70%">](https://youtu.be/lGuztqyF2cs "XGBoost, CATBoost, and lightGBM Algorithm")
+
+### 22.39. Machine Learning-101 to Advance (Part-39): *`Lasso and Ridge Regression | L1 and L2 Regularization`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day29/104.png" width="70%">](https://youtu.be/-7QJ1q7zCBs "Lasso and Ridge Regression | L1 and L2 Regularization")
+
+### 22.40. Machine Learning-101 to Advance (Part-40): *`Ensemble Algorithms in Python with coding`*
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day29/105.png" width="70%">](https://youtu.be/W4iT6zUTRWw "Ensemble Algorithms in Python with coding")
 
 ---
 ---
