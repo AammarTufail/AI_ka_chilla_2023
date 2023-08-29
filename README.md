@@ -858,19 +858,19 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
 
-[<img src="./resources/thumbnails/Day27/87.png" width="70%">](https://youtu.be/b0F8EHsdSiY "Cross Validation")
+[<img src="./resources/thumbnails/Day27/88.png" width="70%">](https://youtu.be/b0F8EHsdSiY "Cross Validation")
 
 ### 22.26. Machine Learning-101 to Advance (Part-26): *`K-Nearest Neighbours`*
 
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
 
-[<img src="./resources/thumbnails/Day27/88.png" width="70%">](https://youtu.be/5u3E78u5uDI "K-Nearest Neighbours")
+[<img src="./resources/thumbnails/Day27/89.png" width="70%">](https://youtu.be/5u3E78u5uDI "K-Nearest Neighbours")
 
 ### 22.27. Machine Learning-101 to Advance (Part-27): *`K-Nearest Neighbours Algorithm's Mathematics`*
 
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
 
-[<img src="./resources/thumbnails/Day27/89.png" width="70%">](https://youtu.be/NvNR7vTy0Rk "K-Nearest Neighbours Algorithm's Mathematics")
+[<img src="./resources/thumbnails/Day27/90.png" width="70%">](https://youtu.be/NvNR7vTy0Rk "K-Nearest Neighbours Algorithm's Mathematics")
 
 ## 23. **Prompt Enginnering**
 
@@ -899,7 +899,7 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
 
-[<img src="./resources/thumbnails/Day26/86.png" width="70%">](ComingSoon "Website Development Using Hostinger")
+[<img src="./resources/thumbnails/Day26/86.png" width="70%">](https://youtu.be/jYffGATJYgE "Website Development Using Hostinger")
 
 ---
 
