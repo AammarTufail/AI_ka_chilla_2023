@@ -142,6 +142,21 @@ contact: aammar@codanics.com
     - [22.38. Machine Learning-101 to Advance (Part-38): *`XGBoost, CATBoost, and lightGBM Algorithm`*](#2238-machine-learning-101-to-advance-part-38-xgboost-catboost-and-lightgbm-algorithm)
     - [22.39. Machine Learning-101 to Advance (Part-39): *`Lasso and Ridge Regression | L1 and L2 Regularization`*](#2239-machine-learning-101-to-advance-part-39-lasso-and-ridge-regression--l1-and-l2-regularization)
     - [22.40. Machine Learning-101 to Advance (Part-40): *`Ensemble Algorithms in Python with coding`*](#2240-machine-learning-101-to-advance-part-40-ensemble-algorithms-in-python-with-coding)
+    - [22.41. Unsupervised Machine Learning Algorithms](#2241-unsupervised-machine-learning-algorithms)
+    - [22.42. Clustering Algorithms](#2242-clustering-algorithms)
+    - [22.43. K-means Clustering](#2243-k-means-clustering)
+    - [22.44. kmeans vs. kmeans++ Clustering](#2244-kmeans-vs-kmeans-clustering)
+    - [22.45. Hierarchical Clustering Theory](#2245-hierarchical-clustering-theory)
+    - [22.46. Hierarchical Clustering Practice in Python](#2246-hierarchical-clustering-practice-in-python)
+    - [22.47. DBSCAN (Density-based spatial clustering of applications with noise)](#2247-dbscan-density-based-spatial-clustering-of-applications-with-noise)
+    - [22.48. DBSCAN vs. OPTICS](#2248-dbscan-vs-optics)
+    - [22.49. Gaussian Mixture Models (GMM)](#2249-gaussian-mixture-models-gmm)
+    - [22.50. Evaluation metrics for GMM](#2250-evaluation-metrics-for-gmm)
+    - [22.51. Feature Engineering](#2251-feature-engineering)
+    - [22.52. Feature Selection](#2252-feature-selection)
+    - [22.53. Principal Component Analysis (PCA)](#2253-principal-component-analysis-pca)
+    - [22.56. SVD (Singular Value Decomposition)](#2256-svd-singular-value-decomposition)
+    - [22.57. tSNE (t-distributed Stochastic Neighbor Embedding)](#2257-tsne-t-distributed-stochastic-neighbor-embedding)
   - [23. **Prompt Enginnering**](#23-prompt-enginnering)
     - [23.1. Prompt Enginnering (Part-1): *` Prompt Engineering Crash course`*](#231-prompt-enginnering-part-1--prompt-engineering-crash-course)
     - [23.2. Prompt Enginnering (Part-2): *`Using Prompt Engineering to Craft Powerful Prompts with AI`*](#232-prompt-enginnering-part-2-using-prompt-engineering-to-craft-powerful-prompts-with-ai)
@@ -1099,6 +1114,108 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
 
 [<img src="./resources/thumbnails/Day29/105.png" width="70%">](https://youtu.be/W4iT6zUTRWw "Ensemble Algorithms in Python with coding")
+
+---
+
+### 22.41. Unsupervised Machine Learning Algorithms
+
+Here is the lecture on Unsupervised Machine Learning Algorithms:\
+[<img src="./resources/thumbnails/Day30/106.png" width="50%">](https://youtu.be/Ht7kUMbeyXc "Unsupervised Machine Learning Algorithms")
+
+### 22.42. Clustering Algorithms
+
+Here is the lecture on Clustering Algorithms:\
+[<img src="./resources/thumbnails/Day30/107.png" width="50%">](https://youtu.be/RiiJ7Rtoc08 "Clustering Algorithms")
+
+### 22.43. K-means Clustering
+
+Here is the lecture on K-means Clustering:\
+[<img src="./resources/thumbnails/Day30/108.png" width="50%">](https://youtu.be/CI4en5k966A "K-means Clustering")
+
+### 22.44. kmeans vs. kmeans++ Clustering
+
+Here is the lecture on kmeans vs. kmeans++ Clustering:\
+[<img src="./resources/thumbnails/Day30/109.png" width="50%">](https://youtu.be/OuHS9xa6nhU "kmeans vs. kmeans++ Clustering")
+
+### 22.45. Hierarchical Clustering Theory
+
+Here is the lecture on Hierarchical Clustering Theory:\
+[<img src="./resources/thumbnails/Day30/110.png" width="50%">](https://youtu.be/gA0jOzoub-A "Hierarchical Clustering Theory")
+
+### 22.46. Hierarchical Clustering Practice in Python
+
+Here is the lecture on Hierarchical Clustering Practice in Python:\
+[<img src="./resources/thumbnails/Day30/111.png" width="50%">](https://youtu.be/PVyILZow2Y4 "Hierarchical Clustering Practice in Python")
+
+### 22.47. DBSCAN (Density-based spatial clustering of applications with noise)
+
+Here is the lecture on DBSCAN (Density-based spatial clustering of applications with noise):\
+[<img src="./resources/thumbnails/Day30/112.png" width="50%">](https://youtu.be/CUYHctYWbhQ "DBSCAN (Density-based spatial clustering of applications with noise)")
+
+This blog may help you further to understand the DBSCAN algorithm:
+> [Density Based Algorithms](https://towardsdatascience.com/density-based-algorithms-49237773c73b)
+
+### 22.48. DBSCAN vs. OPTICS
+
+OPTICS: Ordering points to identify the clustering structure
+
+DBSCAN: Density-based spatial clustering of applications with noise
+
+Here is the lecture on DBSCAN vs. OPTICS:\
+[<img src="./resources/thumbnails/Day30/113.png" width="50%">](https://youtu.be/i8Mb3aAhYSg "DBSCAN vs. OPTICS")
+
+This blog may help you further to understand the DBSCAN algorithm:
+> [OPTICS Clustering Explanation](https://www.geeksforgeeks.org/ml-optics-clustering-explanation/)
+> [Optics in Python](https://pub.towardsai.net/fully-explained-optics-clustering-with-python-example-4553108fa04b)
+
+### 22.49. Gaussian Mixture Models (GMM)
+
+Here is the lecture on Gaussian Mixture Models (GMM):\
+[<img src="./resources/thumbnails/Day30/114.png" width="50%">](https://youtu.be/fQkKdl6i2no "Gaussian Mixture Models (GMM)")
+
+This blog may help you further to understand the DBSCAN algorithm:
+> [Gaussian Mixture Models Explained](https://towardsdatascience.com/gaussian-mixture-models-explained-6986aaf5a95)
+
+
+### 22.50. Evaluation metrics for GMM
+
+Here is the lecture on Evaluation metrics for GMM:\
+[<img src="./resources/thumbnails/Day30/115.png" width="50%">](https://youtu.be/8MGkyNYT97A "Evaluation metrics for GMM")
+
+### 22.51. Feature Engineering
+
+Here is the lecture on Feature Engineering:\
+[<img src="./resources/thumbnails/Day30/116.png" width="50%">](https://youtu.be/0Y4zGbv8GuE "Feature Engineering")
+
+### 22.52. Feature Selection
+
+Here is the lecture on Feature Selection:\
+[<img src="./resources/thumbnails/Day30/117.png" width="50%">](https://youtu.be/LEcd-0V0vSs "Feature Selection")
+
+### 22.53. Principal Component Analysis (PCA)
+
+This lecture is in two parts:
+
+>#### 22.54. Principal Component Analysis (PCA) Theory
+
+Here is the lecture on Principal Component Analysis (PCA) Theory:\
+[<img src="./resources/thumbnails/Day30/118.png" width="50%">](https://youtu.be/7sfNUKsvjGM "Principal Component Analysis (PCA) Theory")
+
+>#### 22.55. Principal Component Analysis (PCA) Practice and Interpretation
+
+Here is the lecture on Principal Component Analysis (PCA) Practice and Interpretation:\
+[<img src="./resources/thumbnails/Day30/119.png" width="50%">](https://youtu.be/lYasC4DsKF0 "Principal Component Analysis (PCA) Practice and Interpretation")
+
+### 22.56. SVD (Singular Value Decomposition)
+
+Here is the lecture on SVD (Singular Value Decomposition):\
+[<img src="./resources/thumbnails/Day30/120.png" width="50%">](https://youtu.be/CjmBeepgnYg "SVD (Singular Value Decomposition)")
+
+### 22.57. tSNE (t-distributed Stochastic Neighbor Embedding)
+
+Here is the lecture on tSNE (t-distributed Stochastic Neighbor Embedding):\
+[<img src="./resources/thumbnails/Day30/121.png" width="50%">](https://youtu.be/3YDSfaXqY3U "tSNE (t-distributed Stochastic Neighbor Embedding)")
+
 
 ---
 ---
