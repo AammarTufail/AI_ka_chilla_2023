@@ -932,7 +932,7 @@ Here is the complete blog you can read through to understand the concept of ense
 
 **The Ultimate Guide to AdaBoost, random forests and XGBoost**
 
-> Click this image for the blog:
+> Click this image for the blog:\
 [<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*wpVgt07J_TeH3jEdc3A50g.png" width="70%">](https://towardsdatascience.com/the-ultimate-guide-to-adaboost-random-forests-and-xgboost-7f9327061c4f "The Ultimate Guide to AdaBoost, random forests and XGBoost")
 
 
