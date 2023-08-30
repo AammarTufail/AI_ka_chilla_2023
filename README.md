@@ -928,6 +928,14 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 
 [<img src="./resources/thumbnails/Day29/99.png" width="70%">](https://youtu.be/TtwYRqhE6to "Ensemble Methods in Machine Learning ALgorithms")
 
+Here is the complete blog you can read through to understand the concept of ensemble methods in machine learning algorithms.
+
+**The Ultimate Guide to AdaBoost, random forests and XGBoost**
+
+> Click this image for the blog:
+[<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*wpVgt07J_TeH3jEdc3A50g.png" width="70%">](https://towardsdatascience.com/the-ultimate-guide-to-adaboost-random-forests-and-xgboost-7f9327061c4f "The Ultimate Guide to AdaBoost, random forests and XGBoost")
+
+
 ### 22.35. Machine Learning-101 to Advance (Part-35): *`Decision Tree Algorithm`*
 
 Decision tree algorithm falls under the category of supervised learning. They can be used to solve both regression and classification problems. Decision tree uses the tree representation to solve the problem in which each leaf node corresponds to a class label and attributes are represented on the internal node of the tree.
@@ -1005,7 +1013,7 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 [<img src="./resources/thumbnails/Day26/86.png" width="70%">](https://youtu.be/jYffGATJYgE "Website Development Using Hostinger")
 
 
-## 25. **WHat we have learned so far**
+## 25. **What we have learned so far**
 
 Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
 
