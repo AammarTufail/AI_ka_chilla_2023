@@ -166,7 +166,18 @@ contact: aammar@codanics.com
   - [26. **Develop Software to do EDA in Python**\*](#26-develop-software-to-do-eda-in-python)
   - [27. **How to earn more using AI tools**\*](#27-how-to-earn-more-using-ai-tools)
   - [28. **Build a Machine Learning App Depot with Streamlit using prompt engineering | Full Stack ML in Python**\*](#28-build-a-machine-learning-app-depot-with-streamlit-using-prompt-engineering--full-stack-ml-in-python)
-  - [`Here is the complete code`: Link to code](#here-is-the-complete-code-link-to-code)
+  - [29. **Google Colab use, tips and tricks**\*](#29-google-colab-use-tips-and-tricks)
+  - [**Deep Learning**](#deep-learning)
+    - [Deep Learning Complete Online Lecture:](#deep-learning-complete-online-lecture)
+    - [**Lecture 01: Introduction to Deep Learning (DL-101)**](#lecture-01-introduction-to-deep-learning-dl-101)
+    - [**Lecture 02: What is Neural Network? and How we can construct it**](#lecture-02-what-is-neural-network-and-how-we-can-construct-it)
+    - [**Lecture 03: Number of neurons in Each Layer**](#lecture-03-number-of-neurons-in-each-layer)
+    - [**Lecture 04: Computer Vision (Basics)**](#lecture-04-computer-vision-basics)
+    - [**Lecture 05: Deep Learning and Computer Vision**](#lecture-05-deep-learning-and-computer-vision)
+    - [**Lecture 06: Activation Functions**](#lecture-06-activation-functions)
+    - [**Lecture 07: Activation Functions**](#lecture-07-activation-functions)
+    - [**Lecture 08: Activation Functions**](#lecture-08-activation-functions)
+    - [**Lecture 09: How to choose an activation functions**](#lecture-09-how-to-choose-an-activation-functions)
 
 
 ## **Resources**
@@ -1282,6 +1293,84 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 [<img src="./resources/thumbnails/Day32/124.png" width="50%">](https://youtu.be/IZ0u7GDU2lo "Build a Machine Learning App Depot with Streamlit using prompt engineering | Full Stack ML in Python")
 
 `Here is the complete code`: [Link to code](./resources/codes/apps/ml_one_ss.py)
+
+
+## 29. **Google Colab use, tips and tricks***
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day33/125.png" width="60%">](https://youtu.be/NAvWmSTH9WA "Google Colab use, tips and tricks")
+
+<div align="center" style="background-color:black; padding: 10px; color: yellow; font-size: 25px;">
+  
+## **Deep Learning**
+  
+</div>
+
+### Deep Learning Complete Online Lecture:
+
+Here is the complete playlist of Deep Learning:\
+[<img src="./resources/thumbnails/Day33/dl_00.png" width="80%">](https://www.youtube.com/playlist?list=PLsOuZJ0LqMeGvzHxR8yS2VJyjJL6ZJGZo "Deep Learning")
+
+### **Lecture 01: Introduction to Deep Learning (DL-101)**
+
+Here is the lecture on Deep Learning day 01:\
+[<img src="./resources/thumbnails/Day33/dl_01.png" width="50%">](https://youtu.be/LnbQCSZz3_k "Deep Learning")
+
+### **Lecture 02: What is Neural Network? and How we can construct it**
+
+Here is the lecture on Deep Learning day 02:\
+[<img src="./resources/thumbnails/Day33/dl_02.png" width="50%">](https://youtu.be/4UB8dyjuO8s "Deep Learning")
+
+### **Lecture 03: Number of neurons in Each Layer**
+
+Here is the lecture on Deep Learning day 03:\
+[<img src="./resources/thumbnails/Day33/dl_03.png" width="50%">](https://youtu.be/3ZA5rdJ_ilg "Deep Learning")
+
+### **Lecture 04: Computer Vision (Basics)**
+
+Here is the lecture on Deep Learning day 04:\
+[<img src="./resources/thumbnails/Day33/dl_04.png" width="50%">](https://youtu.be/TWhR_8JjDwU "Deep Learning")
+
+### **Lecture 05: Deep Learning and Computer Vision**
+
+Here is the lecture on Deep Learning day 05:\
+[<img src="./resources/thumbnails/Day33/dl_05.png" width="50%">](https://youtu.be/_qhqPW-7Rgs "Deep Learning")
+
+### **Lecture 06: Activation Functions**
+
+This is a deatiled 3 parts lecture on activation functions, we will discuss the following activation functions in this lecture:
+
+
+1. Linear: 📈
+2. Binary Step: ⬆️⬇️
+3. Sigmoid: 🔘
+4. Tanh: 📈🔘📉
+5. ReLU: ⚡️
+6. Leaky ReLU: ⚡️💧
+7. Parametric ReLU: ⚡️🔑
+8. Softmax: 🌟
+9. Exponential Linear Unit (ELU): ⚡️📈
+10. swish: ⚡️🔘
+
+Here is the lecture on Deep Learning day 06:\
+[<img src="./resources/thumbnails/Day33/dl_06.png" width="50%">](https://youtu.be/R45Su8qB4vk "Deep Learning")
+
+### **Lecture 07: Activation Functions**
+
+Here is the lecture on Deep Learning day 07:\
+[<img src="./resources/thumbnails/Day33/dl_07.png" width="50%">](https://youtu.be/j7eFGzL1L14 "Deep Learning")
+
+### **Lecture 08: Activation Functions**
+
+Here is the lecture on Deep Learning day 08:\
+[<img src="./resources/thumbnails/Day33/dl_08.png" width="50%">](https://youtu.be/c97dhwlHu68 "Deep Learning")
+
+### **Lecture 09: How to choose an activation functions**
+
+Here is the lecture on Deep Learning day 09:\
+[<img src="./resources/thumbnails/Day33/dl_09.png" width="50%">](https://youtu.be/q1cVPzlH280 "Deep Learning")
+
 ---
 
 
