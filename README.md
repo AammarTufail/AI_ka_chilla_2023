@@ -1310,7 +1310,7 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 ### Deep Learning Complete Online Lecture:
 
 Here is the complete playlist of Deep Learning:\
-[<img src="./resources/thumbnails/Day33/dl_00.png" width="80%">](https://www.youtube.com/playlist?list=PLsOuZJ0LqMeGvzHxR8yS2VJyjJL6ZJGZo "Deep Learning")
+[<img src="./resources/thumbnails/Day33/dl_00.png" width="80%">](https://youtube.com/live/_xj4MWr1D-o?feature=share "Deep Learning")
 
 ### **Lecture 01: Introduction to Deep Learning (DL-101)**
 
