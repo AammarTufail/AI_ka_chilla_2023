@@ -1301,7 +1301,7 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 
 [<img src="./resources/thumbnails/Day33/125.png" width="60%">](https://youtu.be/NAvWmSTH9WA "Google Colab use, tips and tricks")
 
-<div align="center" style="background-color:black; padding: 10px; color: yellow; font-size: 25px;">
+<div align="center" style="background-color:black; padding: 5px; color: yellow; font-size: 50px;">
   
 ## **Deep Learning**
   
