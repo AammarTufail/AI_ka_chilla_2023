@@ -163,6 +163,10 @@ contact: aammar@codanics.com
     - [23.3. Prompt Enginnering (Part-3): *`Blogging Tips and Tricks using Prompt Engineering`*](#233-prompt-enginnering-part-3-blogging-tips-and-tricks-using-prompt-engineering)
   - [24. **Website Development Using Hostinger**](#24-website-development-using-hostinger)
   - [25. **What we have learned so far**](#25-what-we-have-learned-so-far)
+  - [26. **Develop Software to do EDA in Python**\*](#26-develop-software-to-do-eda-in-python)
+  - [27. **How to earn more using AI tools**\*](#27-how-to-earn-more-using-ai-tools)
+  - [28. **Build a Machine Learning App Depot with Streamlit using prompt engineering | Full Stack ML in Python**\*](#28-build-a-machine-learning-app-depot-with-streamlit-using-prompt-engineering--full-stack-ml-in-python)
+  - [`Here is the complete code`: Link to code](#here-is-the-complete-code-link-to-code)
 
 
 ## **Resources**
@@ -1257,6 +1261,27 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 
 [<img src="./resources/thumbnails/Day29/91.png" width="70%">](https://youtu.be/ccsQl2RKasw "WHat we have learned so far?")
 
+## 26. **Develop Software to do EDA in Python***
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day32/122.png" width="70%">](https://youtu.be/bbYJPTnP6ck "Develop Software to do EDA in Python")
+
+`Here is the complete code`: [Link to code](./resources/codes/software/eda_software.py)
+
+## 27. **How to earn more using AI tools***
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day32/123.png" width="50%">](https://youtu.be/8XtrvjxBwTA "How to earn more using AI tools")
+
+## 28. **Build a Machine Learning App Depot with Streamlit using prompt engineering | Full Stack ML in Python***
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day32/124.png" width="50%">](https://youtu.be/IZ0u7GDU2lo "Build a Machine Learning App Depot with Streamlit using prompt engineering | Full Stack ML in Python")
+
+`Here is the complete code`: [Link to code](./resources/codes/apps/ml_one_ss.py)
 ---
 
 
