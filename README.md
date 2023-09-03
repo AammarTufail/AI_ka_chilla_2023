@@ -178,6 +178,10 @@ contact: aammar@codanics.com
     - [**Lecture 07: Activation Functions**](#lecture-07-activation-functions)
     - [**Lecture 08: Activation Functions**](#lecture-08-activation-functions)
     - [**Lecture 09: How to choose an activation functions**](#lecture-09-how-to-choose-an-activation-functions)
+    - [**Lecture 10: Artificial Neural Network General Structure in Python**](#lecture-10-artificial-neural-network-general-structure-in-python)
+    - [**Lecture 11: Artificial Neural Network Regression and call back function**](#lecture-11-artificial-neural-network-regression-and-call-back-function)
+    - [**Lecture 12: Artificial Neural Network Classification**](#lecture-12-artificial-neural-network-classification)
+    - [**Lecture 13: Artificial Neural Network Curves and Training and Validation loss**](#lecture-13-artificial-neural-network-curves-and-training-and-validation-loss)
 
 
 ## **Resources**
@@ -1314,27 +1318,27 @@ Here is the complete playlist of Deep Learning:\
 
 ### **Lecture 01: Introduction to Deep Learning (DL-101)**
 
-Here is the lecture on Deep Learning day 01:\
+Here is the lecture on Deep Learning:\
 [<img src="./resources/thumbnails/Day33/dl_01.png" width="50%">](https://youtu.be/LnbQCSZz3_k "Deep Learning")
 
 ### **Lecture 02: What is Neural Network? and How we can construct it**
 
-Here is the lecture on Deep Learning day 02:\
+Here is the lecture on Deep Learning:\
 [<img src="./resources/thumbnails/Day33/dl_02.png" width="50%">](https://youtu.be/4UB8dyjuO8s "Deep Learning")
 
 ### **Lecture 03: Number of neurons in Each Layer**
 
-Here is the lecture on Deep Learning day 03:\
+Here is the lecture on Deep Learning:\
 [<img src="./resources/thumbnails/Day33/dl_03.png" width="50%">](https://youtu.be/3ZA5rdJ_ilg "Deep Learning")
 
 ### **Lecture 04: Computer Vision (Basics)**
 
-Here is the lecture on Deep Learning day 04:\
+Here is the lecture on Deep Learning:\
 [<img src="./resources/thumbnails/Day33/dl_04.png" width="50%">](https://youtu.be/TWhR_8JjDwU "Deep Learning")
 
 ### **Lecture 05: Deep Learning and Computer Vision**
 
-Here is the lecture on Deep Learning day 05:\
+Here is the lecture on Deep Learning:\
 [<img src="./resources/thumbnails/Day33/dl_05.png" width="50%">](https://youtu.be/_qhqPW-7Rgs "Deep Learning")
 
 ### **Lecture 06: Activation Functions**
@@ -1353,7 +1357,7 @@ This is a deatiled 3 parts lecture on activation functions, we will discuss the 
 9. Exponential Linear Unit (ELU): ⚡️📈
 10. swish: ⚡️🔘
 
-Here is the lecture on Deep Learning day 06:\
+Here is the lecture on Deep Learning:\
 [<img src="./resources/thumbnails/Day33/dl_06.png" width="50%">](https://youtu.be/R45Su8qB4vk "Deep Learning")
 
 ### **Lecture 07: Activation Functions**
@@ -1363,13 +1367,32 @@ Here is the lecture on Deep Learning day 07:\
 
 ### **Lecture 08: Activation Functions**
 
-Here is the lecture on Deep Learning day 08:\
+Here is the lecture on Deep Learning:\
 [<img src="./resources/thumbnails/Day33/dl_08.png" width="50%">](https://youtu.be/c97dhwlHu68 "Deep Learning")
 
 ### **Lecture 09: How to choose an activation functions**
 
-Here is the lecture on Deep Learning day 09:\
+Here is the lecture on Deep Learning:\
 [<img src="./resources/thumbnails/Day33/dl_09.png" width="50%">](https://youtu.be/q1cVPzlH280 "Deep Learning")
+
+### **Lecture 10: Artificial Neural Network General Structure in Python**
+
+Here is the complete lecture on Deep Learning:\
+[<img src="./resources/thumbnails/Day34/dl_10.png" width="50%">](https://www.youtube.com/live/xGdDnHZe3R4?si=NhvxBIWvu6PXePqv "Deep Learning")
+
+> Here is the code for the lecture 10: [Link to code](./resources/codes/deep_learning/02_classification_regression_problem.ipynb)
+
+### **Lecture 11: Artificial Neural Network Regression and call back function**
+
+> Here is the code for the lecture 11: [Link to code](./resources/codes/deep_learning/03_regression_dl.ipynb)
+
+### **Lecture 12: Artificial Neural Network Classification**
+
+> Here is the code for the lecture 12: [Link to code](./resources/codes/deep_learning/04_classification.ipynb)
+
+### **Lecture 13: Artificial Neural Network Curves and Training and Validation loss**
+
+> Here is the code for the lecture 13: [Link to code](./resources/codes/deep_learning/05_training_validation_loss.ipynb)
 
 ---
 
