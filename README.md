@@ -1420,7 +1420,7 @@ Here is the complete lecture on Artificial Neural Network Curves and Training an
 ### **Lecture 14: Convulutional Neural Network (CNN)**
 
 Here is the complete lecture on Convolutional Neural Network (CNN):\
-[<img src="./resources/thumbnails/Day35/136.png" width="50%">](https://youtu.be/I1fv2Ns1Ke4 "Deep Learning")
+[<img src="./resources/thumbnails/Day35/137.png" width="50%">](https://youtu.be/I1fv2Ns1Ke4 "Deep Learning")
 
 > Here is the code for the lecture 14: [Link to code](./resources/codes/deep_learning/06_CNN.ipynb)
 
