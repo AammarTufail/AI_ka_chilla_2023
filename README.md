@@ -1441,6 +1441,10 @@ Here is the lecture on Convolutional Neural Network (CNN) Practice in Python | T
 Here is the lecture on Master Convolutional Neural Network (CNN): `Concepts to make projects`:\
 [<img src="./resources/thumbnails/Day35/140.png" width="50%">](https://youtu.be/u9AgFxP9D_Y "Master Convolutional Neural Network (CNN): `Concepts to make projects`")
 
+Following videos can help you to learn more about CNN:
+
+> 1. [Best example of CNN under 2 minutes:](https://youtu.be/f0t-OCG79-U?si=YuSKaaXBhsAR5qgc)
+> 2. [Image Classification with Convolutional Neural Networks (CNNs)](https://www.youtube.com/watch?v=HGwBXDKFk9I&pp=ygUKQ05OIG5ldXJhbA%3D%3D)
 ---
 
 
