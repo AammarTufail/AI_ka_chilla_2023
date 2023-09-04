@@ -180,8 +180,12 @@ contact: aammar@codanics.com
     - [**Lecture 09: How to choose an activation functions**](#lecture-09-how-to-choose-an-activation-functions)
     - [**Lecture 10: Artificial Neural Network General Structure in Python**](#lecture-10-artificial-neural-network-general-structure-in-python)
     - [**Lecture 11: Artificial Neural Network Regression and call back function**](#lecture-11-artificial-neural-network-regression-and-call-back-function)
-    - [**Lecture 12: Artificial Neural Network Classification**](#lecture-12-artificial-neural-network-classification)
+    - [**Lecture 12: Artificial Neural Network Classification** `Binary and Multi-class`](#lecture-12-artificial-neural-network-classification-binary-and-multi-class)
     - [**Lecture 13: Artificial Neural Network Curves and Training and Validation loss**](#lecture-13-artificial-neural-network-curves-and-training-and-validation-loss)
+    - [**Lecture 14: Convulutional Neural Network (CNN)**](#lecture-14-convulutional-neural-network-cnn)
+    - [**Lecture 15: Convolutional Neural Network (CNN) Theory**](#lecture-15-convolutional-neural-network-cnn-theory)
+    - [**Lecture 16: Convolutional Neural Network (CNN) Practice in Python | Tensorflow framework**](#lecture-16-convolutional-neural-network-cnn-practice-in-python--tensorflow-framework)
+    - [**Lecture 17: Master Convolutional Neural Network (CNN): `Concepts to make projects`**](#lecture-17-master-convolutional-neural-network-cnn-concepts-to-make-projects)
 
 
 ## **Resources**
@@ -1382,17 +1386,58 @@ Here is the complete lecture on Deep Learning:\
 
 > Here is the code for the lecture 10: [Link to code](./resources/codes/deep_learning/02_classification_regression_problem.ipynb)
 
+
+Not enough!
+
+>Here you can learn more about it:\
+[<img src="./resources/thumbnails/Day34/132.png" width="80%">](https://youtu.be/9Piz2OlU95s "Deep Learning")
+
+>Here is another theory part easy via whiteboard:\
+[<img src="./resources/thumbnails/Day34/134a.png" width="80%">](https://youtu.be/Im3bjgB0_p4 "Deep Learning")
+
 ### **Lecture 11: Artificial Neural Network Regression and call back function**
+
+Here is the complete lecture on Artificial Neural Network Regression and call back function:\
+[<img src="./resources/thumbnails/Day34/133.png" width="70%">](https://youtu.be/7Y05akKgo9o "Artificial Neural Network Regression and call back function")
 
 > Here is the code for the lecture 11: [Link to code](./resources/codes/deep_learning/03_regression_dl.ipynb)
 
-### **Lecture 12: Artificial Neural Network Classification**
+### **Lecture 12: Artificial Neural Network Classification** `Binary and Multi-class`
+
+Here is the complete lecture on Artificial Neural Network Classification:\
+[<img src="./resources/thumbnails/Day34/134b.png" width="50%">](https://youtu.be/wafPIQ_BcR4 "Artificial Neural Network Classification")
 
 > Here is the code for the lecture 12: [Link to code](./resources/codes/deep_learning/04_classification.ipynb)
 
 ### **Lecture 13: Artificial Neural Network Curves and Training and Validation loss**
 
+Here is the complete lecture on Artificial Neural Network Curves and Training and Validation loss:\
+[<img src="./resources/thumbnails/Day34/135.png" width="50%">](https://youtu.be/ghgBaGH04lM "Artificial Neural Network Curves and Training and Validation loss")
+
 > Here is the code for the lecture 13: [Link to code](./resources/codes/deep_learning/05_training_validation_loss.ipynb)
+
+
+### **Lecture 14: Convulutional Neural Network (CNN)**
+
+Here is the complete lecture on Convolutional Neural Network (CNN):\
+[<img src="./resources/thumbnails/Day35/136.png" width="50%">](https://youtu.be/I1fv2Ns1Ke4 "Deep Learning")
+
+> Here is the code for the lecture 14: [Link to code](./resources/codes/deep_learning/06_CNN.ipynb)
+
+### **Lecture 15: Convolutional Neural Network (CNN) Theory**
+
+Here is the lecture on Convolutional Neural Network (CNN) Theory:\
+[<img src="./resources/thumbnails/Day35/138.png" width="50%">](https://youtu.be/N7eD14XuNFQ "Convolutional Neural Network (CNN) Theory")
+
+### **Lecture 16: Convolutional Neural Network (CNN) Practice in Python | Tensorflow framework**
+
+Here is the lecture on Convolutional Neural Network (CNN) Practice in Python | Tensorflow framework:\
+[<img src="./resources/thumbnails/Day35/139.png" width="50%">](https://youtu.be/NReTiAnPtG4 "Convolutional Neural Network (CNN) Practice in Python | Tensorflow framework")
+
+### **Lecture 17: Master Convolutional Neural Network (CNN): `Concepts to make projects`**
+
+Here is the lecture on Master Convolutional Neural Network (CNN): `Concepts to make projects`:\
+[<img src="./resources/thumbnails/Day35/140.png" width="50%">](https://youtu.be/u9AgFxP9D_Y "Master Convolutional Neural Network (CNN): `Concepts to make projects`")
 
 ---
 

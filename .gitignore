@@ -5,6 +5,7 @@
 
 # User-specific directories
 lectures/
+resources/codes/apps/other_apps/
 
 # User-specific files
 *.rsuser
