@@ -1423,6 +1423,8 @@ Here is the complete lecture on Convolutional Neural Network (CNN):\
 [<img src="./resources/thumbnails/Day35/137.png" width="50%">](https://youtu.be/I1fv2Ns1Ke4 "Deep Learning")
 
 > Here is the code for the lecture 14: [Link to code](./resources/codes/deep_learning/06_CNN.ipynb)
+>
+> Here is the blog link: [Link to blog](https://glassboxmedicine.com/2020/08/03/convolutional-neural-networks-cnns-in-5-minutes/)
 
 ### **Lecture 15: Convolutional Neural Network (CNN) Theory**
 
