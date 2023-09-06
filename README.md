@@ -188,6 +188,11 @@ contact: aammar@codanics.com
     - [**Lecture 17: Master Convolutional Neural Network (CNN): `Concepts to make projects`**](#lecture-17-master-convolutional-neural-network-cnn-concepts-to-make-projects)
     - [**Lecture 18: Recurrent Neural Network (RNN), LSTM and GRU in Python | Tensorflow framework**](#lecture-18-recurrent-neural-network-rnn-lstm-and-gru-in-python--tensorflow-framework)
   - [Codes for RNN (Recurrent Neural Network), LSTM (Long Short Term Memory), and GRU (Gated Recurrent Unit)](#codes-for-rnn-recurrent-neural-network-lstm-long-short-term-memory-and-gru-gated-recurrent-unit)
+    - [**Lecture 19: Recurrent Neural Network (RNN), Time Series and NLP**](#lecture-19-recurrent-neural-network-rnn-time-series-and-nlp)
+    - [**Lecture 20: 15 important Keyterms for NLP and prompting**](#lecture-20-15-important-keyterms-for-nlp-and-prompting)
+    - [**Lecture 21: Web App development and Deployment**](#lecture-21-web-app-development-and-deployment)
+    - [**Lecture 22: `All about git and github`**](#lecture-22-all-about-git-and-github)
+    - [**Lecture 23: `Recent Revision and Hands on Workshop`**](#lecture-23-recent-revision-and-hands-on-workshop)
 
 
 ## **Resources**
@@ -1463,9 +1468,44 @@ Here is the lecture on Recurrent Neural Network (RNN) in Python | Tensorflow fra
 > 
 > 3. Here is the code for **`GRU`**: [Link to code](./resources/codes/deep_learning/09_GRU_for_time_series_prediction.ipynb)
 
+### **Lecture 19: Recurrent Neural Network (RNN), Time Series and NLP**
 
+Here is the complete lecture on Recurrent Neural Network (RNN), Time Series and NLP:\
+[<img src="./resources/thumbnails/Day36/142.png" width="50%">](https://youtu.be/1xpVuo6aEQU "Recurrent Neural Network (RNN), Time Series and NLP")
+
+### **Lecture 20: 15 important Keyterms for NLP and prompting**
+
+Here is the complete lecture on 15 important Keyterms for NLP:\
+[<img src="./resources/thumbnails/Day36/143.png" width="50%">](https://youtu.be/mHBFEm2rdZw "15 important Keyterms for NLP")
+
+### **Lecture 21: Web App development and Deployment**
+
+This lecture is in two parts:
+
+>#### 21.1. Important Logins to be signed up
+
+Here is the complete lecture on Web App development and Deployment:\
+[<img src="./resources/thumbnails/Day36/144.png" width="50%">](https://youtu.be/XulP2wCy-GI "Web App development and Deployment")
+
+
+>#### 21.2. Web App development and Deployment using prompt engineering, chatGPT, github and streamlit cloud `Full Stack App development in Python`
+
+Here is the complete lecture on Web App development and Deployment:\
+[<img src="./resources/thumbnails/Day37/145.png" width="80%">](https://youtu.be/zG4iDPrKOMw "Web App development and Deployment")
+
+> Here is the code for the lecture 21.2: [Link to code](./resources/codes/apps/word_cloud_app/01/word_cloud_app/app.py)
+
+> Here is the requirement.txt file for the lecture 21.2: [Link to code](./resources/codes/apps/word_cloud_app/01/word_cloud_app/requirements.txt)
+
+
+### **Lecture 22: `All about git and github`**
+
+Here is the complete lecture on `All about git and github`:\
+[<img src="./resources/thumbnails/Day37/146.png" width="50%">](https://youtu.be/qeXnsqbzBCU "All about git and github")
+
+### **Lecture 23: `Recent Revision and Hands on Workshop`**
+
+Here is the complete lecture on `Recent Revision and Hands on Workshop`:\
+[<img src="./resources/thumbnails/Day37/147.png" width="90%">](https://www.youtube.com/live/NiPvISs6GmU?si=YanyS982cbDp6RHl&t=378 "Recent Revision and Hands on Workshop")
 
 ---
-
-
-

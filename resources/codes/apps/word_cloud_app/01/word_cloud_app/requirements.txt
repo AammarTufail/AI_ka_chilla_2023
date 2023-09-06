@@ -1,0 +1,8 @@
+docx==0.2.4
+matplotlib==3.7.1
+pandas==2.0.3
+pdfminer==20191125
+pdfminer.six==20221105
+python_docx==0.8.11
+streamlit==1.25.0
+wordcloud==1.9.2
