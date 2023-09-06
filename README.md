@@ -186,6 +186,8 @@ contact: aammar@codanics.com
     - [**Lecture 15: Convolutional Neural Network (CNN) Theory**](#lecture-15-convolutional-neural-network-cnn-theory)
     - [**Lecture 16: Convolutional Neural Network (CNN) Practice in Python | Tensorflow framework**](#lecture-16-convolutional-neural-network-cnn-practice-in-python--tensorflow-framework)
     - [**Lecture 17: Master Convolutional Neural Network (CNN): `Concepts to make projects`**](#lecture-17-master-convolutional-neural-network-cnn-concepts-to-make-projects)
+    - [**Lecture 18: Recurrent Neural Network (RNN), LSTM and GRU in Python | Tensorflow framework**](#lecture-18-recurrent-neural-network-rnn-lstm-and-gru-in-python--tensorflow-framework)
+  - [Codes for RNN (Recurrent Neural Network), LSTM (Long Short Term Memory), and GRU (Gated Recurrent Unit)](#codes-for-rnn-recurrent-neural-network-lstm-long-short-term-memory-and-gru-gated-recurrent-unit)
 
 
 ## **Resources**
@@ -1445,6 +1447,24 @@ Following videos can help you to learn more about CNN:
 
 > 1. [Best example of CNN under 2 minutes:](https://youtu.be/f0t-OCG79-U?si=YuSKaaXBhsAR5qgc)
 > 2. [Image Classification with Convolutional Neural Networks (CNNs)](https://www.youtube.com/watch?v=HGwBXDKFk9I&pp=ygUKQ05OIG5ldXJhbA%3D%3D)
+
+
+### **Lecture 18: Recurrent Neural Network (RNN), LSTM and GRU in Python | Tensorflow framework**
+
+Here is the lecture on Recurrent Neural Network (RNN) in Python | Tensorflow framework:\
+[<img src="./resources/thumbnails/Day36/141.png" width="50%">](https://youtube.com/live/s2CxnE30Rik?feature=share "Recurrent Neural Network (RNN) in Python | Tensorflow framework")
+
+
+## Codes for RNN (Recurrent Neural Network), LSTM (Long Short Term Memory), and GRU (Gated Recurrent Unit)
+
+> 1. Here is the code for **`RNN`**: [Link to code](./resources/codes/deep_learning/07_RNN_LSTM_GRU.ipynb)
+> 
+> 2. Here is the code for **`LSTM`**: [Link to code](./resources/codes/deep_learning/08_LSTM_for_time_series_prediction.ipynb)
+> 
+> 3. Here is the code for **`GRU`**: [Link to code](./resources/codes/deep_learning/09_GRU_for_time_series_prediction.ipynb)
+
+
+
 ---
 
 
