@@ -193,6 +193,7 @@ contact: aammar@codanics.com
     - [**Lecture 21: Web App development and Deployment**](#lecture-21-web-app-development-and-deployment)
     - [**Lecture 22: `All about git and github`**](#lecture-22-all-about-git-and-github)
     - [**Lecture 23: `Recent Revision and Hands on Workshop`**](#lecture-23-recent-revision-and-hands-on-workshop)
+  - [30. **How to earn Money online using AI and Data Science Skills**](#30-how-to-earn-money-online-using-ai-and-data-science-skills)
 
 
 ## **Resources**
@@ -1507,5 +1508,16 @@ Here is the complete lecture on `All about git and github`:\
 
 Here is the complete lecture on `Recent Revision and Hands on Workshop`:\
 [<img src="./resources/thumbnails/Day37/147.png" width="90%">](https://www.youtube.com/live/NiPvISs6GmU?si=YanyS982cbDp6RHl&t=378 "Recent Revision and Hands on Workshop")
+
+---
+---
+---
+
+## 30. **How to earn Money online using AI and Data Science Skills**
+
+Here is the complete lecture, click the image and watch the lectrue in Urdu/Hindi.
+
+[<img src="./resources/thumbnails/Day38/148.png" width="70%">](https://youtu.be/4BopNaykJVs "How to earn Money online using AI and Data Science Skills")
+
 
 ---
