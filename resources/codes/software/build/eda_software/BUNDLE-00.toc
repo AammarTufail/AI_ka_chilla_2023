@@ -1,3 +1,0 @@
-([('eda_software',
-   '/Users/babaaammar/github_repos/AI_ka_chilla_2023/resources/codes/software/dist/eda_software',
-   'EXECUTABLE')],)
