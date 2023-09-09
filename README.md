@@ -1382,8 +1382,14 @@ Here is the complete lecture, click the image and watch the lectrue in Urdu/Hind
 <img src="./resources/thumbnails/Day40/8.png" width="100%">
 <img src="./resources/thumbnails/Day40/9.png" width="100%">
 <img src="./resources/thumbnails/Day40/10.png" width="100%">
+<img src="./resources/thumbnails/Day40/11.png" width="100%">
+<img src="./resources/thumbnails/Day40/12.png" width="100%">
+<img src="./resources/thumbnails/Day40/13.png" width="100%">
+<img src="./resources/thumbnails/Day40/14.png" width="100%">
 
-
+---
+---
+---
 
 **Dr. Muhammad Aammar Tufail**
 
@@ -1394,6 +1400,7 @@ PhD Data Science in Agriculture
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="50" height="50">](https://github.com/AammarTufail)
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/twitter.svg" width="50" height="50">](https://twitter.com/aammar_tufail)
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/facebook.svg" width="50" height="50">](https://www.facebook.com/groups/codanics/permalink/1872283496462303/)
+
 
 
 
